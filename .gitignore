@@ -126,3 +126,7 @@ Thumbs.db
 # Local scripts
 *.local.ts
 *.local.mjs
+.manus/
+.cursor/
+.manus/
+.cursor/
